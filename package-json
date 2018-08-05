@@ -1,10 +1,10 @@
-{
-  "name": "Test",
-  "version": "0.1.0",
-  "description": "Test",
-  "main": "bot.js",
-  "scripts": {
-    "test": ""
+{ 
+   "name": "Test",
+   "description": "Test",
+   "version": "0.1.0",
+   "main": "bot.js",
+   "scripts": {
+     "start": "node bot.js"
   },
   "keywords": [
     "discord",
