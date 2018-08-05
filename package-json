@@ -1,8 +1,8 @@
 {
-  "name": "yumeko",
+  "name": "Test",
   "version": "0.1.0",
-  "description": "A simple discord bot",
-  "main": "MusicBot.js",
+  "description": "Test",
+  "main": "bot.js",
   "scripts": {
     "test": ""
   },
